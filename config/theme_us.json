@@ -1,0 +1,7 @@
+{
+  "AI": ["NVDA", "MSFT", "GOOGL"],
+  "robot": ["IRBT", "ROK", "ABB"],
+  "nuclear": ["CCJ", "BWXT", "GE"],
+  "energy": ["XOM", "CVX", "SLB"],
+  "battery": ["TSLA", "ALB", "QS"]
+}
